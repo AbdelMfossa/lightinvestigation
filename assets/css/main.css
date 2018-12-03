@@ -24,3 +24,8 @@ h2{
 	background-color: #009688 !important;
 	border-color: #009688 !important;
 }
+
+#file{
+	/*display: none;*/
+	visibility: hidden;
+}

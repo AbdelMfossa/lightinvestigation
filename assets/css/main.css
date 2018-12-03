@@ -1,0 +1,26 @@
+body{
+	margin: 0px auto;
+	padding-top:79px;
+    /*font-family: ProximaNova;*/
+}
+
+nav{
+	background: #009688 !important;
+}
+
+nav .btn{
+	border-radius: 2px;
+}
+
+h2{
+	font-size: 3.56rem;
+    line-height: 110%;
+    margin: 2.3733333333rem 0 1.424rem 0;
+    font-weight: bold !important;
+}
+
+.go{
+	border-radius: 2px;
+	background-color: #009688 !important;
+	border-color: #009688 !important;
+}

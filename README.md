@@ -1,2 +1,2 @@
 # lightinvestigation
-The first software of digital investigation in cameroon
+The first software of digital investigation in Cameroon
